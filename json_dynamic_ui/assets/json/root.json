@@ -1,0 +1,115 @@
+{
+  "app": {
+    "theme": "light"
+  },
+  "widgets": [
+    {
+      "type": "banner",
+      "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+      "header_text": "New Recipe",
+      "footer_text": "Cook Chicken Curry",
+      "footer_icon": true
+    },
+    {
+      "type": "banner",
+      "color": "blue",
+      "padding": 16,
+      "margin": 16,
+      "border_radius": 16,
+      "header_text": "Meal Planner",
+      "footer_text": "Plan your meals",
+      "footer_icon": true
+    },
+    {
+      "type": "banner_carousal",
+      "items": [
+        {
+          "type": "banner",
+          "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+          "header_text": "New Recipe",
+          "footer_text": "Cook Chicken Curry",
+          "footer_icon": true
+        },
+        {
+          "type": "banner",
+          "color": "blue",
+          "padding": 16,
+          "margin": 16,
+          "border_radius": 16,
+          "header_text": "Meal Planner",
+          "footer_text": "Plan your meals",
+          "footer_icon": true
+        },
+        {
+          "type": "banner",
+          "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+          "header_text": "New Recipe",
+          "footer_text": "Cook Chicken Curry",
+          "footer_icon": true
+        },
+        {
+          "type": "banner",
+          "color": "blue",
+          "padding": 16,
+          "margin": 16,
+          "border_radius": 16,
+          "header_text": "Meal Planner",
+          "footer_text": "Plan your meals",
+          "footer_icon": true
+        }
+      ]
+    },
+    {
+      "type": "horizontal_list",
+      "title": "Collections",
+      "items": [
+        {
+          "type": "circular_item",
+          "text": "Breakfast",
+          "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+        },
+        {
+          "type": "circular_item",
+          "text": "Meat Based",
+          "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+        },
+        {
+          "type": "box_item",
+          "text": "Italian",
+          "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+        },
+        {
+          "type": "circular_item",
+          "text": "Vegan",
+          "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+        }
+      ]
+    },
+    {
+      "type": "horizontal_list",
+      "title": "Cuisines",
+      "items": [
+        {
+          "type": "box_item",
+          "text": "American",
+          "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+        },
+        {
+          "type": "circular_item",
+          "text": "Vegan",
+          "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+        },
+        {
+          "type": "box_item",
+          "text": "Italian",
+          "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+        },
+        {
+          "type": "box_item",
+          "text": "Thai",
+          "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+        }
+      ]
+    }
+  ]
+}
